@@ -12,13 +12,12 @@
 - Second item
 - Third item
 
-'''
-
+```
 # This program prints Hello,World!
 print('Hello,World!)
-
-'''
+```
 
 ---
 this is another section
+
 [jyothi engeneering college website](jecc.ac.in)
