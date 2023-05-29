@@ -1,7 +1,32 @@
-# **Introduction**
+# SELF INTRODUCTION
+## AKASH P S.
+1. 28-10-2003
+2. E-MAIL ID:akashpsct22@gpcchelakkara.ac.in
+3. PH NO:8714522608
+```
 
-## ***Akash***
+I am Akash P S, hailing from Puthukkad. I successfully completed my Higher Secondary Education at St:Antony's HSS Puthukkad, where I gained a solid foundation in academics. Currently, I am pursuing a diploma in computer engineering at GPC Chelakkara, which signifies my passion for the world of technology.
 
-*Hi,*
+Embarking on the path of computer engineering is an excellent choice, as it opens up a realm of opportunities in the ever-evolving field of technology. With each passing day, advancements in computer engineering present innovative solutions and shape the future of our digital world. I am confident that through my studies at GPC Chelakkara, I will gain the knowledge and skills necessary to contribute meaningfully to this exciting industry.
 
-*I'm Akash. I'm from Puthukkad. I completed my higher secondary education at St:Antony's Hss Puthukkad. Currently I'm studying Diploma in Engineering at Government Polytechnic College Thonnurkara. My family consists of father, mother and an elder sister. My hobbies are cycling, listening music, playing football. Thats all, Thank you*
+During my educational journey, I have developed a keen interest in various aspects of computer engineering, such as programming languages, hardware design, software development, and networking. I am driven by a curiosity to explore the intricacies of these subjects, eager to unravel their mysteries and apply my learning to real-world scenarios.
+
+Outside of my academic pursuits, I am an avid learner who enjoys staying up-to-date with the latest technological advancements and trends. This allows me to broaden my understanding of the ever-changing digital landscape and discover new possibilities for innovation.
+
+As I progress in my studies and further hone my skills, I look forward to leveraging my knowledge to make a positive impact in the field of computer engineering. Whether it's developing cutting-edge software, optimizing system performance, or solving complex technical challenges, I am eager to contribute my abilities and collaborate with like-minded individuals to push the boundaries of what is possible.
+
+I am excited to be a part of this technological era and witness firsthand the transformative power of computer engineering. Feel free to reach out to me if you have any questions or if there's anything specific you'd like to discuss regarding computer engineering or any related topics.
+
+Wishing you all the best in your educational journey and future endeavors!
+
+Warm regards,
+Akash P S
+```
+# PROGRAMS  STUDIED
+- PYthon coding
+- PYthon mmachine learning
+
+# ONLINE COMPILER
+- GOOGLE COLAB
+- HACKERSRANK
+- w3 school
